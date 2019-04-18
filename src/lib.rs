@@ -1,3 +1,4 @@
+#![no_std]
 use embedded_hal::timer::{CountDown, Periodic};
 
 use void::Void;
